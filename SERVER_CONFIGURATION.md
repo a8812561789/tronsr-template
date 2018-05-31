@@ -1,15 +1,15 @@
-Describe your server configuration
-Type
-Cloud - AWS
+Google Cloud Virtual machine
 
-Location
-ap-northeast-2 (asia / seoul region)
+Minimum specs for testing time
 
-Info
-before-upgrade : x1.16xlarge * 2 + m5.4xlarge
-after-upgrade : x1.32xlarge * 2 + m5.4xlarge
-349 ECU, 128vCPUs, 2.3 GHz, Intel Xeon E7 8880 v3, 1952 GB Memory, 2 x 1920GB SSD Storage, 25G bandwidth + 2 x 1920GB EBS Storage (auto-backup)
+Node piece: 1
 
-Use EBS snapshot backup. mount EBS Volume & rsync & snapshot (auto-backup)
-Use AWS-CloudWatch statue check and Auto-Recovery
-If the node fails in real time, we are designing a backup and live swap architecture. (replication and master-slave swap)
+Machine Type: n1-standard-2 (2 vCPU, 7,5 GB)
+
+CPU platformu: Intel Haswell
+
+Area: us-east1-b
+
+Hdd: 10Gb
+
+Ip: 101.8.160.121
