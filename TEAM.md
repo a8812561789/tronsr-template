@@ -1,14 +1,18 @@
-## Founder
+SERGEY MAVRODI
+MAVRO Adviser 
 
-Name: [name]
-Role: [role]
+The Father of MMM community, 
+The Farher of MMMGlobal, 
+MAVRO Cryptocurrency ideologist.
 
-## Team Member 1
+VICTOR GELD
+MAVRO Adviser
 
-Name: [name]
-Role: [role]
+Creator of MAVRO Cryptocurrency
+MMM Global Co-Founder
+MMM Ideologist in South America, Africa, and Asia regions
 
-## Team Member 2
+STEPAN DEMURA
+MAVRO Adviser
 
-Name: [name]
-Role: [role]
+Fund Manager and Financial Analyst
