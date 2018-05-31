@@ -1,30 +1,18 @@
-Translations
-============
 
-This directory contains translated content. By placing content in a language directory 
-it will be made available on tronscan.org. 
+We are going to make TRON, NOT only a house hold name, but a solid part of cryptocurrency within our communities around the world. We are already talking to business across the country to accept TRX as a payment option.
 
-Empty or non-existent files will be ignored and will fallback to the english version
+Investing in the future -We will be investing into companies small and big, not with Fiat, but with TRX
 
-## Directory Structure
+-We will own a percentage of each company per investment TRX ($)
 
-* en
-  * INTRO.md
-  * COMMUNITY.md
-  * etc...
-* kr
-  * INTRO.md
-  * COMMUNITY.md
-  * etc...
-* etc..
+-We will be giving each company full access to our IT team, this means that they will have the best web sites the world, business analysis to make them more competitive in the market place.
 
-## Supported languages
+-Each business will agree to use the TRX coin and will promote to use of it on every website and location.
 
-Right now only the following languages are supported, you may request additional languages
-by creating an issue in the `tronscan/tronsr-template` repository
+-Each company will work with our team to expand operations, we will have a clear business plan on how to expand.
 
-* __ko__ = Korean
-* __zh__ = Chinese
-* __fr__ = French
-* __de__ = Deutsch
-* __en__ = English
+I am looking forward to this adventure with Tron as we grow as a community. We truly look forward to expand the horizons of Tron and our own token. This will be listed on the main net as well as within our communities all over the world.
+
+We will be donating TRX to, but not limited to local schools, hospitals, non profit organizations, churches, police & firefighters and other organizations that serve our communities for the better in the name of TRON. We will also be asking whom we donate to, to accept TRX as payment.
+
+We will be a HUGE contributor to the TRON network. We are looking for bright, out of the box thinking, experienced individuals with new ideas and thoughts, if you have comments or feed back please click on our contact page.
